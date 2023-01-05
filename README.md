@@ -1,1 +1,1 @@
-# Veri-G-rselle-tirme-D-nem--devi
+Veri Görselleştirme dersine ait dönem ödevinin R kodları
